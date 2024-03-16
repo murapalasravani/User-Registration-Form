@@ -7,6 +7,7 @@ User needs to fill the User Details form to get registered.This web form(page) w
 **How to Set up and run the application**
 
 Software required: XAMPP Control Panel
+
 In the XAMPP Control Panel, make sure that Apache and mysql are running.
 Now, the url localhost/phpassignment/login.html needs to entered in chrome.
 It will direct to the User Details Form.
